@@ -1,0 +1,9 @@
+/venv
+/build
+/dist
+/output
+icon.ico
+icon.png
+kummiku.db
+kummiku.spec
+main.spec
